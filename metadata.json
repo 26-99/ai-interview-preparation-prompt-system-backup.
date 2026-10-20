@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Preparation Prompt System",
+  "description": "Turn any software developer job description into a prioritized, structured interview preparation plan and interactive mock interview coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
