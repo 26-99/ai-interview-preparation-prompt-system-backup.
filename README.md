@@ -5,7 +5,7 @@ An AI-powered interview preparation platform that helps fresh graduates and juni
 ## 🚀 Live Demo
 
 - **Live Application:** https://ais-pre-3nunuhi65z5hgkly6kg3i7-192692930843.asia-northeast1.run.app
-- **GitHub Repository:** https://github.com/26-99/ai-interview-preparation-prompt-system-backup.
+- **GitHub Repository:** https://github.com/26-99/ai-interview-preparation-prompt-system-backup..git
 
 ## 📌 Problem Statement
 
